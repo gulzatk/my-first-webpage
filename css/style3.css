@@ -1,19 +1,21 @@
 h1 {
-  color:green;
+  color:deepskyblue;
 }
 p {
+  color: indigo;
   text-align:center;
   font-style: normal;
-  font-weight:400;
+  font-weight:800;
   font-family: sans-serif;
   font-size: 16px;
   line-height: normal;
 }
 li {
+  color: indigo;
   text-align: left;
   font-style:normal;
-  font-weight: 150;
-  font-family: inherit;
+  font-weight: 300;
+  font-family: sans-serif;
   font-size: 16px;
   line-height: normal;
 }
