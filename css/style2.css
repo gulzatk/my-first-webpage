@@ -1,0 +1,22 @@
+h1 {
+  color:green;
+}
+p {
+  text-align:center;
+  font-style: normal;
+  font-weight:400;
+  font-family: sans-serif;
+  font-size: 16px;
+  line-height: normal;
+}
+li {
+  text-align: left;
+  font-style:normal;
+  font-weight: 150;
+  font-family: inherit;
+  font-size: 16px;
+  line-height: normal;
+}
+ol {
+  text-align: center;
+}
